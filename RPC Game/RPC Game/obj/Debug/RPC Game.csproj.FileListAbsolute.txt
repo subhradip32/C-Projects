@@ -1,0 +1,7 @@
+E:\C#\RPC Game\RPC Game\bin\Debug\RPC Game.exe.config
+E:\C#\RPC Game\RPC Game\bin\Debug\RPC Game.exe
+E:\C#\RPC Game\RPC Game\bin\Debug\RPC Game.pdb
+E:\C#\RPC Game\RPC Game\obj\Debug\RPC Game.csproj.AssemblyReference.cache
+E:\C#\RPC Game\RPC Game\obj\Debug\RPC Game.csproj.CoreCompileInputs.cache
+E:\C#\RPC Game\RPC Game\obj\Debug\RPC Game.exe
+E:\C#\RPC Game\RPC Game\obj\Debug\RPC Game.pdb
